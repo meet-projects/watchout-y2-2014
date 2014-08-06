@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<head>
+	<title>watch out</title>
+	<link rel="stylesheet" type="text/css" href="bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="hadar.css">
+</head>
+	<br />
+	<h1 class="whitetext biggerh">WATCH OUT</h1>
+
+<form role="form">
+	<br />
+	<div class="col-xs-3">
+	<p class="whitetext">Email:</p>	
+	<input type="text" class="form-control" placeholder="Enter email">
+	<br />
+	<p class="whitetext">Password:</p>	
+	<input type="password" class="form-control" placeholder="password">
+	<br />
+	<button type="button" class="btn btn-default">log in</button>
+	</div>
+</form>
