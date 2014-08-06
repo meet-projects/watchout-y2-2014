@@ -2,10 +2,6 @@ body {
 	background-color: rgb(0,0,0);
 }
 
-#swag {
-	background-color: rgba(255,0,0);
-}
-
 body:after {
   background: url(http://www.restreets.org/sites/default/files/GoogleMap.jpg);
   opacity: 0.12;
