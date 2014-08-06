@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d108513.68057881386!2d35.175359!3d31.796318600000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1siw!2sil!4v1407314764603" width="800" height="600" frameborder="0" style="border:0"></iframe>
+	<DIV style="position: absolute; top:50px; left:980px; width:200px; height:25px">
+		
+		<select name="felonies">
+		  <option value="assault">Assault</option>
+		  <option value="theft">Theft</option>
+		  <option value="tv">Traffic Violations</option>
+		  <option value="murder">Murder</option>
+		  <option value="kidnapping">Kidnapping</option>
+		  <option value="murder">Murder</option>
+		  <option value="illegal drugs">Drug Abuse</option>
+		  <option value="pc">Property Crime</option>
+		  <option value="earthquakes">Earthquakes</option>
+		  <option value="tornados">Tornados</option>
+		  <option value="tsunamis">Tsunamis</option>
+		</select>
+	</div>
+<DIV style="position: absolute; top:55px; left:850px; width:200px; height:25px">Choose Felony:
+<br><br>
+
+<textarea rows="30" cols="50" placeholder= "Description..."></textarea><br><br>
+<button>Upload
+</body>
+</html>
+
+<style type="text/css">
+
+ body {
+    background-image: url("Background.jpg");
+    background-repeat: no-repeat;
+} 
+</style>
