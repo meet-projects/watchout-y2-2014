@@ -1,11 +1,11 @@
 <!doctype html>
 <html>
-<font color="green">
+<font color="black">
 <div align=center>
 <head>
 
 <br>
-<h1>Register</h1><link rel="stylesheet" type="text/css" href="style.css"/></head>
+<h1>Register</h1><link rel="stylesheet" type="text/css" href="hadar.css"/></head>
 <body bgcolor=white>
 <table border="1">
 <tr height=40><th>Full Name &nbsp;</th><th><input type="text"/></th></tr> 
