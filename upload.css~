@@ -1,7 +1,12 @@
 html { 
-  background: url(Background2.png); 
+  background: url(Background3.png); 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-repeat: repeat;
+  background-color: rgb(20,20,20);
 }
+
+
+  
