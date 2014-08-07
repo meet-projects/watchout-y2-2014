@@ -1,0 +1,29 @@
+#changecolor{
+	color: red;
+}
+
+#swag{
+	color: blue;
+	position: absolute;
+	top: 0;
+	right: 5px;	
+}
+
+#selectmenu {
+	position: absolute;
+}
+
+#map {
+	text-align: center;
+}
+
+#pac-input {
+	margin-left: -250px;
+	z-index: 9999999;
+}
+#tamerhanania {
+	color: red;
+}
+#picture {
+	background-image: http://c.crossmap.christianpost.com/images/1/24/12403.jpg;
+}
